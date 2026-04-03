@@ -69,7 +69,6 @@ script.js
 ## Demo
 
 Vercel Link : https://cash-flow-tracker-ocszroh4i-kodali-madhu-kanths-projects.vercel.app
-Add your demo video link here (Loom or Google Drive)
 
 ---
 

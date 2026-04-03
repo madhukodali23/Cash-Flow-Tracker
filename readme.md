@@ -68,6 +68,7 @@ script.js
 
 ## Demo
 
+Vercel Link : https://cash-flow-tracker-ocszroh4i-kodali-madhu-kanths-projects.vercel.app
 Add your demo video link here (Loom or Google Drive)
 
 ---
@@ -78,12 +79,6 @@ Add your demo video link here (Loom or Google Drive)
 * Managing application state without frameworks
 * Working with browser storage
 * Building logic-driven applications
-
----
-
-## AI Usage
-
-This project was built with the assistance of AI tools for guidance and learning. All logic and implementation were understood and customized.
 
 ---
 

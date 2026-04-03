@@ -72,6 +72,14 @@ Vercel Link : https://cash-flow-tracker-ocszroh4i-kodali-madhu-kanths-projects.v
 
 ---
 
+<img width="1918" height="878" alt="image" src="https://github.com/user-attachments/assets/4349e084-0902-4af6-9307-d90ee6722410" />
+
+<img width="1884" height="877" alt="image" src="https://github.com/user-attachments/assets/63d8ab65-3f44-4415-8f7d-7bd336dd2bc5" />
+
+<img width="1894" height="865" alt="image" src="https://github.com/user-attachments/assets/ab406e4a-91d5-49b7-89dc-2fa94fc699d2" />
+
+---
+
 ## Key Learning
 
 * Handling user input in JavaScript

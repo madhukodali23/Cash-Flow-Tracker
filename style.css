@@ -1,0 +1,149 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: linear-gradient(135deg, #1e3a8a, #7c3aed);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app {
+  width: 100%;
+  max-width: 520px;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  color: white;
+  font-weight: 600;
+}
+
+.header p {
+  color: #d1d5db;
+  font-size: 14px;
+}
+
+.card {
+  background: white;
+  border-radius: 16px;
+  padding: 18px;
+  margin-bottom: 15px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+  transition: 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+h2 {
+  margin-bottom: 10px;
+  color: #111827;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  margin-top: 6px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: 1px solid #e5e7eb;
+  outline: none;
+  font-size: 14px;
+  transition: 0.2s;
+}
+
+input:focus {
+  border-color: #6366f1;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  border-radius: 10px;
+  border: none;
+  background: linear-gradient(to right, #6366f1, #7c3aed);
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+.summary {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  text-align: center;
+}
+
+.summary-box {
+  flex: 1;
+  background: #f9fafb;
+  border-radius: 12px;
+  padding: 10px;
+}
+
+.summary-box span {
+  font-size: 12px;
+  color: #6b7280;
+}
+
+.summary-box h3 {
+  margin-top: 5px;
+  color: #111827;
+}
+
+.balance-box h2 {
+  margin-top: 5px;
+  color: #16a34a;
+}
+
+ul {
+  list-style: none;
+  margin-top: 10px;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 12px;
+  margin-top: 6px;
+  border-radius: 10px;
+  background: #f3f4f6;
+  transition: 0.2s;
+}
+
+li:hover {
+  background: #e0e7ff;
+}
+
+.delete {
+  color: #ef4444;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.delete:hover {
+  transform: scale(1.2);
+}
+
+canvas {
+  margin-top: 10px;
+}
